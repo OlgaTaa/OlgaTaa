@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlgaTaa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTNL, CSS, Python, R
+- 🌱 I’m currently learning HTML, CSS, Python, R
 
 
 <!---
